@@ -1,0 +1,8 @@
+# MrBayes (SC17 version by team Tsinghua)
+
+MrBayes code modified with AVX-512 intrinsics for Student Cluster Competition at SC17 (Denver, CO)
+
+Disclaimer:
+	The code is only used for competition instead of other purposes.
+	Original MrBayes repository is located at https://github.com/NBISweden/MrBayes.
+
